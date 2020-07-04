@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="03142a97-20bc-4c69-8247-9108e2468899" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bNTUHuu7WwqUrGVZCRi3oiVNyJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pretrained_models" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="get_image_results" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="garbage_classifier_pro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_image_results.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="garbage_classifier_pro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="object_detection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="garbage_classifier_pro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/object_detection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.get_image_results" />
+        <item itemvalue="Python.object_detection" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03142a97-20bc-4c69-8247-9108e2468899" name="Default Changelist" comment="" />
+      <created>1588471565625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588471565625</updated>
+      <workItem from="1588471577498" duration="5607000" />
+      <workItem from="1593220602787" duration="1346000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="634" y="297" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588474611208">
+      <screen x="0" y="23" width="1792" height="1041" />
+    </state>
+    <state x="634" y="297" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1792.1041@0.23.1792.1041" timestamp="1588474611208" />
+    <state width="1750" height="284" key="GridCell.Tab.0.bottom" timestamp="1588476900371">
+      <screen x="0" y="23" width="1792" height="1037" />
+    </state>
+    <state width="1750" height="284" key="GridCell.Tab.0.bottom/0.23.1792.1037@0.23.1792.1037" timestamp="1588476900371" />
+    <state width="1750" height="284" key="GridCell.Tab.0.bottom/0.23.1792.1041@0.23.1792.1041" timestamp="1588474836549" />
+    <state width="1750" height="284" key="GridCell.Tab.0.center" timestamp="1588476900358">
+      <screen x="0" y="23" width="1792" height="1037" />
+    </state>
+    <state width="1750" height="284" key="GridCell.Tab.0.center/0.23.1792.1037@0.23.1792.1037" timestamp="1588476900358" />
+    <state width="1750" height="284" key="GridCell.Tab.0.center/0.23.1792.1041@0.23.1792.1041" timestamp="1588474836548" />
+    <state width="1750" height="284" key="GridCell.Tab.0.left" timestamp="1588476900356">
+      <screen x="0" y="23" width="1792" height="1037" />
+    </state>
+    <state width="1750" height="284" key="GridCell.Tab.0.left/0.23.1792.1037@0.23.1792.1037" timestamp="1588476900356" />
+    <state width="1750" height="284" key="GridCell.Tab.0.left/0.23.1792.1041@0.23.1792.1041" timestamp="1588474836547" />
+    <state width="1750" height="284" key="GridCell.Tab.0.right" timestamp="1588476900370">
+      <screen x="0" y="23" width="1792" height="1037" />
+    </state>
+    <state width="1750" height="284" key="GridCell.Tab.0.right/0.23.1792.1037@0.23.1792.1037" timestamp="1588476900370" />
+    <state width="1750" height="284" key="GridCell.Tab.0.right/0.23.1792.1041@0.23.1792.1041" timestamp="1588474836548" />
+    <state x="397" y="182" key="SettingsEditor" timestamp="1588471639648">
+      <screen x="0" y="23" width="1792" height="1041" />
+    </state>
+    <state x="397" y="182" key="SettingsEditor/0.23.1792.1041@0.23.1792.1041" timestamp="1588471639648" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/garbage_classifier_pro$get_image_results.coverage" NAME="get_image_results Coverage Results" MODIFIED="1588474836542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/garbage_classifier_pro$object_detection.coverage" NAME="object_detection Coverage Results" MODIFIED="1588473064751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/garbage_classifier_pro$main.coverage" NAME="main Coverage Results" MODIFIED="1588476836871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
